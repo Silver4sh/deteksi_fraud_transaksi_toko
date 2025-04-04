@@ -1,6 +1,3 @@
-# Menyimpan isi README dalam bentuk file .md
-
-readme_content = """
 # 🕵️‍♂️ Fraud Detection dengan Isolation Forest
 
 Proyek ini bertujuan untuk mendeteksi transaksi mencurigakan (fraud) dalam dataset penjualan menggunakan algoritma **Isolation Forest**. Data dianalisis berdasarkan fitur kuantitas dan nilai transaksi.
